@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ローラー (from Raison d'être)",
+  "base_artist": "かいりきベア",
+  "createdAt": "2026-03-31T18:25:19.628663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ローラー (from Raison d'être)",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/01_ローラー_(from_Raison_d'être)_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ローラー (from Raison d'être)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_ローラー_(from_Raison_d'être)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ローラー (from Raison d’être)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/03_ローラー_(from_Raison_d’être)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ローラー・スケートをはいた猫",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/04_ローラー・スケートをはいた猫_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ローラー・スケートをはいた猫",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/05_ローラー・スケートをはいた猫_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ローラー・ブレイド・レース",
+      "artist": "Original Love",
+      "has_synced": false,
+      "path": "select/06_ローラー・ブレイド・レース_Original_Love.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ローラー (from Raison d'être)",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ローラー_(from_Raison_d'être)_かいりきベア.txt"
+    }
+  ]
+}
